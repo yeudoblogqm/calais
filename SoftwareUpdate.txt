@@ -1,1 +1,1 @@
-ultralytics 8.1.1 Docs, Solutions and Export updates (#7545)
+Add visuals in guides/distance-calculation.md (#7876)
