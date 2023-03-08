@@ -1,1 +1,1 @@
-Updated SQL Query Plot Code (#8120)
+fix predict with class filter
