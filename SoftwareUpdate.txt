@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
