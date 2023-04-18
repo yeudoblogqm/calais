@@ -1,1 +1,1 @@
-fix for predicting with batch_size > 1 (#47)
+Add HeatMap guide in real-world-projects + Code in Solutions Directory (#6796)
