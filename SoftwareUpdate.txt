@@ -1,1 +1,1 @@
-Add missing Explorer docs reference pages (#7455)
+Add plot_images conf_thresh parameter (#8446)
