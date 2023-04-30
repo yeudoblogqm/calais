@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Clarify triton server boolean value (#8532)
