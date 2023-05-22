@@ -1,1 +1,1 @@
-ultralytics 8.1.22 HUB model pathlib fix (#8621)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
