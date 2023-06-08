@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
