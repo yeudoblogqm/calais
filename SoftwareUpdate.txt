@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+* fix for KeyError: 'epoch'
