@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fix TypeError in check_cfg() (#9245)
