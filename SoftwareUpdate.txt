@@ -1,1 +1,1 @@
-ultralytics 8.0.225 multi-video tracker bug fix (#6862)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
