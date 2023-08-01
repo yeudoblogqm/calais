@@ -1,1 +1,1 @@
-Fix xyxyxyxyn calculation in obb result (#8188)
+OpenVino 2024.0.0 (#8726)
