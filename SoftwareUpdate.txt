@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Fix PIL show() and save() (#8202)
