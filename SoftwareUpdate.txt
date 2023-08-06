@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
