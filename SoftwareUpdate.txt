@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+Fixed dataloader CPU bottleneck for small batch sizes (#7659)
