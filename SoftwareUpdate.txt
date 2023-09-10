@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
