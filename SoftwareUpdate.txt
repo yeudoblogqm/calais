@@ -1,1 +1,1 @@
-Resize angle, count, and stage on keypoint number change (#7598)
+Fix heatmaps width-height order bug (#7184)
