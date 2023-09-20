@@ -1,1 +1,1 @@
-Pin jax and jaxlib to fix tensorflowjs exports (#6988)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
