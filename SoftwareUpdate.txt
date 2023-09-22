@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add docstrings to new HUB functions (#7576)
