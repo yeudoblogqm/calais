@@ -1,1 +1,1 @@
-Fix tfjs exports for ARM64 Dockerfile (#8766)
+Desktop Mode Switch - A switch inside the tab switcher that can be used to toggle desktop mode on / off globally
