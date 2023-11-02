@@ -1,1 +1,1 @@
-Feature: Create HUB Models from CLI or Python Script (#7316)
+Add KaTeX support + updates to YOLOv9 model page (#8531)
