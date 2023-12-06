@@ -1,1 +1,1 @@
-ultralytics 8.1.14 new YOLOv8-World models (#8054)
+Add quantization support to TensorFlow.js converter (#7008)
