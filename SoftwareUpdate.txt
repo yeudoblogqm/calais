@@ -1,1 +1,1 @@
-Add quantization support to TensorFlow.js converter (#7008)
+Update Discord and Contributing Guide URLs (#9270)
