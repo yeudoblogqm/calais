@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Adds toggle displaying labels in GUI and verbose log on start (#7804)
