@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
