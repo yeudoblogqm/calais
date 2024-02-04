@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
