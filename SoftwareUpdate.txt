@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+ultralytics 8.1.8 new model.save('filename.pt') method (#7886)
