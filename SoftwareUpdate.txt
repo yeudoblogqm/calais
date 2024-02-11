@@ -1,1 +1,1 @@
-Add TFLite Docs Integrations Page (#8522)
+Add Amazon Sagemaker Docs integrations page (#7293)
