@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
