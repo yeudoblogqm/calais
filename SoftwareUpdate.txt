@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Add PR Summary step to Ultralytics Actions (#7675)
