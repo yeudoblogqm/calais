@@ -1,1 +1,1 @@
-ultralytics 8.1.31 NCNN and CLIP updates (#9235)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
