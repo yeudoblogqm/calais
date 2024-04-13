@@ -1,1 +1,1 @@
-Clean up unused imgsz (#7771)
+OBB: Fix plot_images (#7592)
