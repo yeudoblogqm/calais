@@ -1,1 +1,1 @@
-ultralytics 8.1.16 OBB ConfusionMatrix support (#8299)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
