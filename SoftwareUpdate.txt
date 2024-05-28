@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+Model typehints Docker fix (#8306)
